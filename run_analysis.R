@@ -75,4 +75,4 @@ bigdata <- bigdata[ , c(1,2, test)]
 meltdata <- melt(bigdata, id = c("activity", "subject"))
 meanbigdata <- dcast(meltdata, activity + subject ~ variable, mean)
 
-write.table(meanbigdata, "tidydata.txt", row.names = FALSE, quote = FALSE)
+write.table(meanbigdata, "tidy.txt", row.names = FALSE, quote = FALSE)
