@@ -87,10 +87,10 @@ The data fields in `tidy.txt` are summarized in this document:
 
 ## Activity labels
 
-1. (1) WALKING - subject was walking during the test
-2. (2) WALKING_UPSTAIRS - subject was walking up a staircase during the test
-3. (3) WALKING_DOWNSTAIRS - subject was walking down a staircase during the test
-4. (4) SITTING - subject was sitting during the test
-5. (5) STANDING - subject was standing during the test
-6. (6) LAYING - subject was laying down during the test
+1. (1) `WALKING` - subject was walking during the test
+2. (2) `WALKING_UPSTAIRS` - subject was walking up a staircase during the test
+3. (3) `WALKING_DOWNSTAIRS` - subject was walking down a staircase during the test
+4. (4) `SITTING` - subject was sitting during the test
+5. (5) `STANDING` - subject was standing during the test
+6. (6) `LAYING` - subject was laying down during the test
 
